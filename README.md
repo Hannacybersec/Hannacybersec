@@ -30,4 +30,4 @@ Building a **14-project cybersecurity portfolio** focused on practical security 
 
 ---
 
-**7 / 14 Projects Completed** 🚀
+**14/ 14 Projects Completed** 🚀
