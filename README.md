@@ -39,6 +39,7 @@ Building a **14-project cybersecurity portfolio** focused on practical security 
 9. Hands-on Labs.
 10. Security Concepts.
 11. Certifications.
+
 12.Interview Preparation.
 
 ## 🛠️ Skills & Technologies
