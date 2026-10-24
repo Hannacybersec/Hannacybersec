@@ -41,6 +41,21 @@ Building a **14-project cybersecurity portfolio** focused on practical security 
 11. Certifications.
 12.Interview Preparation.
 
+## 🛠️ Skills & Technologies
+
+- Linux
+- Python
+- Bash
+- Computer Networking
+- Cybersecurity
+- SOC / Blue Team
+- Web Security
+- Cloud Security
+- Nmap
+- Wireshark
+- Burp Suite
+- Scapy
+- Git & GitHub
 
 ---
 
